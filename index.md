@@ -3,6 +3,7 @@
 ## About Me
 
 Hello! I'm Jacqueline Huebner. Here's a little about me:
+I am a CS student at UCSD. I spend my time playing video games or studying on campus. 
 
 To access the readme file:
 [Link to readme](README.md)
@@ -12,6 +13,8 @@ This will page will include
 -[Places to study on campus](#places-to-study-on-campus)
 
 -[Video Games](#video-games)
+
+-[Tasks](#my-tasks)
 
 -[Line of Code](#the-first-line-of-code)
 
